@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "38188509858",
+    "firebase_url": "https://forsale-26a5c.firebaseio.com",
+    "project_id": "forsale-26a5c",
+    "storage_bucket": "forsale-26a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38188509858:android:59353c8d9b7e2b23",
+        "android_client_info": {
+          "package_name": "com.example.forsalev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38188509858-ub5pbb2djgbfvq5vqpmgrqqan1q720qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC19J3oT6P7V0j6MzF7Zl0tP47U34G5IEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38188509858:android:458e91a850536b03",
+        "android_client_info": {
+          "package_name": "codingwithmitch.com.forsale.account"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38188509858-ub5pbb2djgbfvq5vqpmgrqqan1q720qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC19J3oT6P7V0j6MzF7Zl0tP47U34G5IEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
